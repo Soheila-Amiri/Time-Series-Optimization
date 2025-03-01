@@ -1,1 +1,1 @@
-
+For this project, the optimization functions are applied on a sliding window with the size of 50, and are evaluated on budgets of B=10, 20, and 30. 
